@@ -1,1 +1,4 @@
-﻿haruhimitsu01.txt
+﻿*.csv
+haruhimitsu*
+data/
+*.pkl
