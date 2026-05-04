@@ -1,0 +1,1 @@
+print("Commit 1 후지타 코토네")
