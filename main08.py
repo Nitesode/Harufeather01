@@ -1,0 +1,1 @@
+print("Stash 실습 시작!")
